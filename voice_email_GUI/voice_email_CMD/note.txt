@@ -1,0 +1,7 @@
+
+https://myaccount.google.com/security
+
+https://myaccount.google.com/apppasswords
+
+
+python app.py
