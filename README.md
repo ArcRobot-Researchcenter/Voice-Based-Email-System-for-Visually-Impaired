@@ -1,6 +1,9 @@
 # Voice-Based-Email-System-for-Visually-Impaired
 A voice-controlled email client designed to empower visually impaired users with accessible communication. Built with Python, PyQt6, SpeechRecognition, and pyttsx3, the system enables users to check inbox, read emails aloud, compose, reply, search, and mark messages as read — all through voice commands.
 
+# Watch video of how the Program works 
+[![Watch the demo](https://img.youtube.com/vi/G4OzLi_CXCw/0.jpg)](https://youtu.be/G4OzLi_CXCw)
+
 ==========================================================================
 
 ✨ Features
